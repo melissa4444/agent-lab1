@@ -1,0 +1,10 @@
+[project]
+name = "agent-lab1"
+version = "0.1.0"
+description = "Standalone Lab 1 — first OpenAI chat workflow"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "openai>=2.54.0",
+    "python-dotenv>=1.2.2",
+]
